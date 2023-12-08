@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">CineCheck</string>
+    <string name="nome">Nome:</string>
+    <string name="fone">Telefone:</string>
+    <string name="email">Email:</string>
+    <string name="salvar">Salvar</string>
+    <string name="excluir">Excluir</string>
+    <string name="pesquisar">Pesquisar</string>
+    <string name="name">Name</string>
+    <string name="genre">Genre</string>
+    <string name="score">Score</string>
+    <string name="genero">Genero</string>
+    <string name="cinecheck">CineCheck🎬</string>
+    <string name="filmes_assistidos">Filmes Assistidos</string>
+    <string name="url_da_capa_do_filme">URL da capa do filme</string>
+    <string-array name="genres">
+        <item>Ação</item>
+        <item>Aventura</item>
+        <item>Animação</item>
+        <item>Cinema de arte</item>
+        <item>Chanchada</item>
+        <item>Comédia</item>
+        <item>Comédia de ação</item>
+        <item>Comédia de terror</item>
+        <item>Comédia dramática</item>
+        <item>Comédia romântica</item>
+        <item>Dança</item>
+        <item>Documentário</item>
+        <item>Docuficção</item>
+        <item>Drama</item>
+        <item>Espionagem</item>
+        <item>Faroeste</item>
+        <item>Fantasia</item>
+        <item>Fantasia científica</item>
+        <item>Ficção científica</item>
+        <item>Filmes com truques</item>
+        <item>Filmes de guerra</item>
+        <item>Mistério</item>
+        <item>Musical</item>
+        <item>Filme policial</item>
+        <item>Romance</item>
+        <item>Terror</item>
+        <item>Thriller</item>
+    </string-array>
+</resources>
